@@ -17,16 +17,13 @@ The purpose is to understand EV sales through a decade and predict future vehicl
 ## Modules
 There are Two main modules, let’s have a detailed look of each module.
 
-**Module-1:Extract Transform Load (Python, Pandas, SQL)**
+### Module-1:Extract Transform Load (Python, Pandas, SQL)
 
 Data collection is very important and crucial part of any data analysis. There are lots paid and little less free of datasets are available for **Electric Vehicles**.
 
 Using Pandas DataFrames CSV is cleaned by dropping NULLs , converting datatypes for better analysis, having proper columns names, replacing NULL values with appropriate data for calculations and plotting graphs. One **cleaning python script** is developed, so by importing it all common cleaning function can be done on any CSVS.
 
-**CSV File:**
-[Electriv_Vehicle_population_data](https://www.youtube.com/)
-
-**Module-2: Visualizations (Matplotlib, Seaborn)**
+### Module-2: Visualizations (Matplotlib, Seaborn)
 Visualizations help for more detail analysis clear predictions. Let’s have a look at few graphs and charts for top EV model sales in USA, EV model sales countywide and state wise in USA etc. using Matplotlib and Seaborn.
 ## Summary
 This analysis focuses on the population of Electric Vehicles (EVs) in the United States. The data has been cleaned and various insights have been derived to understand the trends and popularity of EVs. Below are the key areas covered in the analysis:
