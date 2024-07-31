@@ -25,6 +25,7 @@ Using Pandas DataFrames CSV is cleaned by dropping NULLs , converting datatypes 
 
 ### Module-2: Visualizations (Matplotlib, Seaborn)
 Visualizations help for more detail analysis clear predictions. Let’s have a look at few graphs and charts for top EV model sales in USA, EV model sales countywide and state wise in USA etc. using Matplotlib and Seaborn.
+![graphs](https://github.com/MdRehaan75/EV_Sales_DataAnalysis/blob/main/image.png) 
 ## Summary
 This analysis focuses on the population of Electric Vehicles (EVs) in the United States. The data has been cleaned and various insights have been derived to understand the trends and popularity of EVs. Below are the key areas covered in the analysis:
 
