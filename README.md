@@ -24,7 +24,7 @@ Data collection is very important and crucial part of any data analysis. There a
 Using Pandas DataFrames CSV is cleaned by dropping NULLs , converting datatypes for better analysis, having proper columns names, replacing NULL values with appropriate data for calculations and plotting graphs. One **cleaning python script** is developed, so by importing it all common cleaning function can be done on any CSVS.
 
 **CSV File:**
-[Electriv_Vehicle_population_data]("C:\Users\Md. Rehaan\Desktop\EV_Sales\EV-data\Electric_Vehicle_Population_Data.csv")
+[Electriv_Vehicle_population_data](https://www.youtube.com/)
 
 **Module-2: Visualizations (Matplotlib, Seaborn)**
 Visualizations help for more detail analysis clear predictions. Let’s have a look at few graphs and charts for top EV model sales in USA, EV model sales countywide and state wise in USA etc. using Matplotlib and Seaborn.
